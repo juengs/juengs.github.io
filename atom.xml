@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JEFF&#39;s BLOG</title>
+  
+  <subtitle>Think it, Try it, and Markup.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://juengs.github.io/"/>
+  <updated>2018-06-28T05:32:28.268Z</updated>
+  <id>https://juengs.github.io/</id>
+  
+  <author>
+    <name>jeff</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>object</title>
+    <link href="https://juengs.github.io/2018/06/26/object/"/>
+    <id>https://juengs.github.io/2018/06/26/object/</id>
+    <published>2018-06-26T08:59:41.000Z</published>
+    <updated>2018-06-28T05:32:28.268Z</updated>
+    
+    <content type="html"><![CDATA[<p><br><a href="https://juengs.github.io">Mine GITHUB</a>             <br><br><img src="http://forsigner.com/images/avatar.jpg" alt="FLOWER"><br></p><hr><p><pre><br>     <strong>do ri mi fa so la si<br></strong></pre><br>    <code><br>    func(){</code></p><p>///</p><p>///</p><p>}<br>    </p><hr><pre><code><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">&lt;ul&gt;</span><br><span class="line">&lt;li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt; - I need you beside me</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt; - I need you beside me</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt;</span><br><span class="line"> -  字体子集化，在线提取你需要的字体</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;li&gt;HEXO&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;&gt;</span><br></pre></td></tr></table></figure></code></pre><hr><ul><li><font face="黑体">前端</font></li><li><font face="黑体">后端</font> </li></ul><hr><font color="0099ff" size="1" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="00ffff" size="2" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="gray" size="3" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="red" size="4" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="cyan" size="5" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="blue" size="6" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="green" size="7" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="yellow" size="1" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="orange" size="1" face="黑体"> * HEXO </font>  - theme for hexo<br><br>—<br><br><font face="黑体">自定义体字</font> <font face="黑体"> 敬请期待 </font> ]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;br&gt;&lt;a href=&quot;https://juengs.github.io&quot;&gt;Mine GITHUB&lt;/a&gt;             &lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://forsigner.com/images/avatar.jpg&quot; alt=&quot;FLOWER&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="Jobs" scheme="https://juengs.github.io/tags/Jobs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TEST</title>
+    <link href="https://juengs.github.io/2018/06/26/test/"/>
+    <id>https://juengs.github.io/2018/06/26/test/</id>
+    <published>2018-06-26T05:07:15.000Z</published>
+    <updated>2018-06-28T05:29:43.391Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://juengs.github.io/categories/Hexo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="https://juengs.github.io/2018/06/26/my-first-blog/"/>
+    <id>https://juengs.github.io/2018/06/26/my-first-blog/</id>
+    <published>2018-06-26T05:07:13.000Z</published>
+    <updated>2018-06-28T05:16:46.337Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://juengs.github.io/2018/06/26/hello-world/"/>
+    <id>https://juengs.github.io/2018/06/26/hello-world/</id>
+    <published>2018-06-26T04:53:13.241Z</published>
+    <updated>2018-06-26T04:53:13.241Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
