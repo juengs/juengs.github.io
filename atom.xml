@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://juengs.github.io/"/>
-  <updated>2018-06-28T05:32:28.268Z</updated>
+  <updated>2018-08-02T14:21:45.342Z</updated>
   <id>https://juengs.github.io/</id>
   
   <author>
@@ -17,11 +17,100 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>object</title>
+    <title>initial with Pay image at bottom</title>
+    <link href="https://juengs.github.io/2018/08/02/init/"/>
+    <id>https://juengs.github.io/2018/08/02/init/</id>
+    <published>2018-08-02T14:12:21.000Z</published>
+    <updated>2018-08-02T14:21:45.342Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Lazy and bottom alipay image</title>
+    <link href="https://juengs.github.io/2018/08/02/lazy/"/>
+    <id>https://juengs.github.io/2018/08/02/lazy/</id>
+    <published>2018-08-02T14:12:21.000Z</published>
+    <updated>2018-08-02T14:20:46.500Z</updated>
+    
+    <content type="html"><![CDATA[<p>在做OC项目中经常使用的就是懒加载,重写getter方法, 什么时候用到getter方法什么时候去加载, 并且就加载一次,保证项目的效率</p><p>那么何为惰性初始化呢？<br>从OC的代码中不难看出，惰性初始化，就是在变量第一次使用的时候才进行初始化。<br>那么Swift也有懒加载这么一说,而且Apple 很推荐我们使用懒加载, 并且还有一个关键字lazy</p><p>懒加载定义: var 变量名: 类型 = 闭包()<br>看一下下面的实例<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">private lazy var backBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var likeBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var sharedBtn: UIButton        = UIButton()</span><br><span class="line">private lazy var submitTitle: UILabel       = UILabel()</span><br><span class="line">private lazy var line:UIView                = UIView()</span><br><span class="line">private lazy var isLoadFinsih               = false</span><br><span class="line">private lazy var isAddBottomView            = false</span><br><span class="line">private lazy var showBlackImage             = false</span><br><span class="line">private lazy var detailVebView: UIWebView   = UIWebView(frame: CGRectMake(0,0,AppWidth,AppHeight))</span><br><span class="line">private lazy var tableFooterView            = UIView()</span><br><span class="line">private lazy var loadFinishScrollHeihgt: CGFloat = 0</span><br><span class="line">private lazy var customNav: UIView = &#123;</span><br><span class="line">let customNav = UIView(frame: CGRectMake(0, 0, AppWidth, NavigationH))</span><br><span class="line">customNav.backgroundColor = UIColor.whiteColor()</span><br><span class="line">customNav.alpha = 0.0</span><br><span class="line">return customNav</span><br><span class="line">&#125;()</span><br></pre></td></tr></table></figure></p><p>Swift中的惰性初始化</p><p>Swift中，有两种方式来惰性初始化。<br>第一种，简单表达式<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var first = NSArray(objects: &quot;1&quot;,&quot;2&quot;)</span><br></pre></td></tr></table></figure></p><p>第二种，闭包<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var second:String = &#123; return &quot;second&quot; &#125;()</span><br></pre></td></tr></table></figure></p><p>注意:不要忘记最后的小括号，只有加了小括号，必包才会在掉用的时候立刻执行。</p><p>惰性初始化的使用场景</p><p>属性本身依赖于外部因素才能初始化<br>属性需要复杂计算，消耗大量CPU<br>属性不确定是否会使用到<br>定制化的初始化<br>有些初始化只需要初始化一次，在变量定义的地方初始化，有助于代码维护</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在做OC项目中经常使用的就是懒加载,重写getter方法, 什么时候用到getter方法什么时候去加载, 并且就加载一次,保证项目的效率&lt;/p&gt;
+&lt;p&gt;那么何为惰性初始化呢？&lt;br&gt;从OC的代码中不难看出，惰性初始化，就是在变量第一次使用的时候才进行初始化。&lt;br&gt;那么Sw
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TIME is everything, so record it with blogs everyday.</title>
+    <link href="https://juengs.github.io/2018/08/02/Today/"/>
+    <id>https://juengs.github.io/2018/08/02/Today/</id>
+    <published>2018-08-02T14:12:21.000Z</published>
+    <updated>2018-08-02T14:32:05.177Z</updated>
+    
+    <content type="html"><![CDATA[<p>TIME: 08/02 2013, Thursday. 15:12:10<br>LOCAL: SHANGHAI</p><p>TITLE: nothing<br>——————————————————-<br>OBJECT: The one Who can use fire.<br>Today with nothing.<br>   I think to become a iOS engineer must learn english and computer language.   Such as Object-c and swift. And the computer principle is very important all so.<br>It’s the base of computer technology.<br>  Computer technology and scientist. I can use grammar . Sugar.<br>//TODO:  find a job. Pefect person and thing.<br>Tomorrow is fine.<br>     ⁃    每天24小时，至少一篇文章. 时间/地点人物/目的/精气神emotion Spring spirit<br>     ⁃    BECOME</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;TIME: 08/02 2013, Thursday. 15:12:10&lt;br&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: nothing&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The one Who can use fire.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>How to make iOS Apps with Swift.</title>
+    <link href="https://juengs.github.io/2018/06/30/Apps/"/>
+    <id>https://juengs.github.io/2018/06/30/Apps/</id>
+    <published>2018-06-29T16:37:30.000Z</published>
+    <updated>2018-08-02T14:29:36.499Z</updated>
+    
+    <content type="html"><![CDATA[<p>先构架框架</p><ol><li>主页面，跳转。</li><li>模块划分，加载。</li></ol><hr><p>TableController 问题。</p><ol><li>View需要构造器吗？ Syswift</li></ol><p>在做OC项目中经常使用的就是懒加载,重写getter方法, 什么时候用到getter方法什么时候去加载, 并且就加载一次,保证项目的效率</p><p>那么何为惰性初始化呢？<br>从OC的代码中不难看出，惰性初始化，就是在变量第一次使用的时候才进行初始化。<br>那么Swift也有懒加载这么一说,而且Apple 很推荐我们使用懒加载, 并且还有一个关键字lazy</p><p>懒加载定义: var 变量名: 类型 = 闭包()<br>看一下下面的实例<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">private lazy var backBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var likeBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var sharedBtn: UIButton        = UIButton()</span><br><span class="line">private lazy var submitTitle: UILabel       = UILabel()</span><br><span class="line">private lazy var line:UIView                = UIView()</span><br><span class="line">private lazy var isLoadFinsih               = false</span><br><span class="line">private lazy var isAddBottomView            = false</span><br><span class="line">private lazy var showBlackImage             = false</span><br><span class="line">private lazy var detailVebView: UIWebView   = UIWebView(frame: CGRectMake(0,0,AppWidth,AppHeight))</span><br><span class="line">private lazy var tableFooterView            = UIView()</span><br><span class="line">private lazy var loadFinishScrollHeihgt: CGFloat = 0</span><br><span class="line">private lazy var customNav: UIView = &#123;</span><br><span class="line">let customNav = UIView(frame: CGRectMake(0, 0, AppWidth, NavigationH))</span><br><span class="line">customNav.backgroundColor = UIColor.whiteColor()</span><br><span class="line">customNav.alpha = 0.0</span><br><span class="line">return customNav</span><br><span class="line">&#125;()</span><br></pre></td></tr></table></figure></p><p>Swift中的惰性初始化</p><p>Swift中，有两种方式来惰性初始化。<br>第一种，简单表达式<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var first = NSArray(objects: &quot;1&quot;,&quot;2&quot;)</span><br></pre></td></tr></table></figure></p><p>第二种，闭包<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var second:String = &#123; return &quot;second&quot; &#125;()</span><br></pre></td></tr></table></figure></p><p>注意:不要忘记最后的小括号，只有加了小括号，必包才会在掉用的时候立刻执行。</p><p>惰性初始化的使用场景</p><p>属性本身依赖于外部因素才能初始化<br>属性需要复杂计算，消耗大量CPU<br>属性不确定是否会使用到<br>定制化的初始化<br>有些初始化只需要初始化一次，在变量定义的地方初始化，有助于代码维护</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;先构架框架&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主页面，跳转。&lt;/li&gt;
+&lt;li&gt;模块划分，加载。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;TableController 问题。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;View需要构造器吗？ Syswift&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在做OC项目
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The objects what haved done.</title>
     <link href="https://juengs.github.io/2018/06/26/object/"/>
     <id>https://juengs.github.io/2018/06/26/object/</id>
     <published>2018-06-26T08:59:41.000Z</published>
-    <updated>2018-06-28T05:32:28.268Z</updated>
+    <updated>2018-08-02T14:28:49.398Z</updated>
     
     <content type="html"><![CDATA[<p><br><a href="https://juengs.github.io">Mine GITHUB</a>             <br><br><img src="http://forsigner.com/images/avatar.jpg" alt="FLOWER"><br></p><hr><p><pre><br>     <strong>do ri mi fa so la si<br></strong></pre><br>    <code><br>    func(){</code></p><p>///</p><p>///</p><p>}<br>    </p><hr><pre><code><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">&lt;ul&gt;</span><br><span class="line">&lt;li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt; - I need you beside me</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt; - I need you beside me</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt;</span><br><span class="line"> -  字体子集化，在线提取你需要的字体</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;li&gt;HEXO&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;&gt;</span><br></pre></td></tr></table></figure></code></pre><hr><ul><li><font face="黑体">前端</font></li><li><font face="黑体">后端</font> </li></ul><hr><font color="0099ff" size="1" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="00ffff" size="2" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="gray" size="3" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="red" size="4" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="cyan" size="5" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="blue" size="6" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="green" size="7" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="yellow" size="1" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="orange" size="1" face="黑体"> * HEXO </font>  - theme for hexo<br><br>—<br><br><font face="黑体">自定义体字</font> <font face="黑体"> 敬请期待 </font> ]]></content>
     
@@ -40,11 +129,11 @@
   </entry>
   
   <entry>
-    <title>TEST</title>
+    <title>you can find the TEXT answer in Hexo Blog.</title>
     <link href="https://juengs.github.io/2018/06/26/test/"/>
     <id>https://juengs.github.io/2018/06/26/test/</id>
     <published>2018-06-26T05:07:15.000Z</published>
-    <updated>2018-06-28T05:29:43.391Z</updated>
+    <updated>2018-08-02T14:27:22.679Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
     
@@ -63,11 +152,11 @@
   </entry>
   
   <entry>
-    <title>my first blog</title>
+    <title>my first blog This is your very first post!</title>
     <link href="https://juengs.github.io/2018/06/26/my-first-blog/"/>
     <id>https://juengs.github.io/2018/06/26/my-first-blog/</id>
     <published>2018-06-26T05:07:13.000Z</published>
-    <updated>2018-06-28T05:16:46.337Z</updated>
+    <updated>2018-08-02T14:26:04.583Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
     
@@ -84,11 +173,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>Hello World!!!</title>
     <link href="https://juengs.github.io/2018/06/26/hello-world/"/>
     <id>https://juengs.github.io/2018/06/26/hello-world/</id>
     <published>2018-06-26T04:53:13.241Z</published>
-    <updated>2018-06-26T04:53:13.241Z</updated>
+    <updated>2018-08-02T14:26:49.651Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
