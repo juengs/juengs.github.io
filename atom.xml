@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://juengs.github.io/"/>
-  <updated>2018-08-02T14:32:05.177Z</updated>
+  <updated>2018-08-07T06:32:24.267Z</updated>
   <id>https://juengs.github.io/</id>
   
   <author>
@@ -15,6 +15,257 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Start a business</title>
+    <link href="https://juengs.github.io/2018/08/06/08062018StartBusiness/"/>
+    <id>https://juengs.github.io/2018/08/06/08062018StartBusiness/</id>
+    <published>2018-08-06T05:46:21.000Z</published>
+    <updated>2018-08-07T06:32:24.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: It’s easy to open a shop but hard to keep it open.<br>Object:<br>——————————————————-</p><p>Fine.</p><p>It’s easy to open a shop but hard to keep it open.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: It’s easy to open a shop but hard to keep it open.&lt;br&gt;Object:&lt;br&gt;——————————————————-&lt;/p&gt;
+&lt;p&gt;Fine.&lt;/p&gt;
+&lt;p&gt;It
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ObjectMapper</title>
+    <link href="https://juengs.github.io/2018/08/05/08052018ObjectMapper/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018ObjectMapper/</id>
+    <published>2018-08-05T15:46:21.000Z</published>
+    <updated>2018-08-05T01:09:32.322Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
+      
+    
+    </summary>
+    
+    
+      <category term="Network" scheme="https://juengs.github.io/tags/Network/"/>
+    
+      <category term="Data" scheme="https://juengs.github.io/tags/Data/"/>
+    
+      <category term="Model" scheme="https://juengs.github.io/tags/Model/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HandyJSON</title>
+    <link href="https://juengs.github.io/2018/08/05/08052018HandyJSON/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018HandyJSON/</id>
+    <published>2018-08-05T15:46:21.000Z</published>
+    <updated>2018-08-05T01:08:50.471Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
+      
+    
+    </summary>
+    
+    
+      <category term="第三方框架" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/"/>
+    
+      <category term="iOS" scheme="https://juengs.github.io/tags/iOS/"/>
+    
+      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Moya</title>
+    <link href="https://juengs.github.io/2018/08/05/08052018Moya/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018Moya/</id>
+    <published>2018-08-05T15:46:21.000Z</published>
+    <updated>2018-08-05T01:23:49.229Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="网络抽象层库Moya的使用详解1"><a href="#网络抽象层库Moya的使用详解1" class="headerlink" title="网络抽象层库Moya的使用详解1"></a>网络抽象层库Moya的使用详解1</h1><h2 id="一、基本介绍"><a href="#一、基本介绍" class="headerlink" title="一、基本介绍"></a>一、基本介绍</h2><h4 id="1，什么是-Moya"><a href="#1，什么是-Moya" class="headerlink" title="1，什么是 Moya"></a>1，什么是 Moya</h4><p>（1）我们知道在 iOS 开发中，可以使用 URLSession 进行网络请求。但为了方便起见，我通常会选择使用 Alamofire 这样的第三方库。这些库本质上也是基于 URLSession 的，但其封装了许多细节，可以让我们网络请求相关代码（如获取数据，提交数据，上传文件，下载文件等）更加简洁易用。<br>（2）而 Moya 又是一个基于 Alamofire 的更高层网络请求封装抽象层。Moya 也就可以看做我们的网络管理层，用来封装 URL、参数等请求所需要的一些基本信息。使用后我们的客户端代码会直接操作 Moya，然后 Moya 去管理请求，而不用跟 Alamofire 进行直接接触。<br>GitHub 主页地址：<a href="https://github.com/Moya/Moya" target="_blank" rel="noopener">https://github.com/Moya/Moya</a></p><h4 id="2，使用-Moya-的优点"><a href="#2，使用-Moya-的优点" class="headerlink" title="2，使用 Moya 的优点"></a>2，使用 Moya 的优点</h4><h2 id="二、安装配置"><a href="#二、安装配置" class="headerlink" title="二、安装配置"></a>二、安装配置</h2><h2 id="三、使用样例"><a href="#三、使用样例" class="headerlink" title="三、使用样例"></a>三、使用样例</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;a href=&quot;#网络抽象层库Moya的使用详解1&quot; class=&quot;headerlink&quot; title=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;/a&gt;网络抽象层库Moya的使用详解1&lt;/h1&gt;&lt;h2 id=&quot;一、基本介绍&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="QQ" scheme="https://juengs.github.io/tags/QQ/"/>
+    
+      <category term="Login" scheme="https://juengs.github.io/tags/Login/"/>
+    
+      <category term="URLSession" scheme="https://juengs.github.io/tags/URLSession/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QQ第三方登陆</title>
+    <link href="https://juengs.github.io/2018/08/05/08052018QQLogin/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018QQLogin/</id>
+    <published>2018-08-05T15:46:21.000Z</published>
+    <updated>2018-08-05T01:09:53.492Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
+      
+    
+    </summary>
+    
+    
+      <category term="QQ" scheme="https://juengs.github.io/tags/QQ/"/>
+    
+      <category term="Login" scheme="https://juengs.github.io/tags/Login/"/>
+    
+      <category term="第三方登陆" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E9%99%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://juengs.github.io/2018/08/05/08052018TodayNews3/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018TodayNews3/</id>
+    <published>2018-08-05T01:48:49.107Z</published>
+    <updated>2018-08-05T01:48:49.107Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用友盟实现应用的统计分析</title>
+    <link href="https://juengs.github.io/2018/08/05/08052018umeng/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018umeng/</id>
+    <published>2018-08-05T01:11:21.000Z</published>
+    <updated>2018-08-05T01:19:12.711Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="1，什么是友盟（umeng-com）"><a href="#1，什么是友盟（umeng-com）" class="headerlink" title="1，什么是友盟（umeng.com）"></a>1，什么是友盟（umeng.com）</h4><p>（1）友盟致力于为移动开发者提供专业的数据统计分析、开发和运营组件及推广服务。服务包含移动应用统计分析以及细分行业的移动游戏统计分析、社会化分享组件、消息推送、自动更新、用户反馈、错误分析等产品。<br>（2）友盟提供iOS、Android和Windows Phone等多平台服务。</p><h4 id="2，友盟的应用统计分析"><a href="#2，友盟的应用统计分析" class="headerlink" title="2，友盟的应用统计分析"></a>2，友盟的应用统计分析</h4><p>友盟统计分析平台是国内最大的移动应用统计分析平台。用于帮助移动应用开发商统计和分析流量来源、内容使用、用户属性和行为数据，以便开发商利用数据进行产品、运营、推广策略的决策。 </p><h4 id="3，使用样例"><a href="#3，使用样例" class="headerlink" title="3，使用样例"></a>3，使用样例</h4><p>由于官网提供的代码样例是Objective-C的，下面我将演示如何使用Swift来调用友盟的SDK。</p><ul><li>umeng ID</li><li>Import in App delegate</li><li>single files load umeng</li><li>父类(基类) 添加umeng统计，</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;1，什么是友盟（umeng-com）&quot;&gt;&lt;a href=&quot;#1，什么是友盟（umeng-com）&quot; class=&quot;headerlink&quot; title=&quot;1，什么是友盟（umeng.com）&quot;&gt;&lt;/a&gt;1，什么是友盟（umeng.com）&lt;/h4&gt;&lt;p&gt;（1）友盟致
+      
+    
+    </summary>
+    
+    
+      <category term="第三方框架" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/"/>
+    
+      <category term="iOS" scheme="https://juengs.github.io/tags/iOS/"/>
+    
+      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to read and write Code?</title>
+    <link href="https://juengs.github.io/2018/08/04/08072018ReadCode/"/>
+    <id>https://juengs.github.io/2018/08/04/08072018ReadCode/</id>
+    <published>2018-08-04T15:46:21.000Z</published>
+    <updated>2018-08-07T06:34:44.854Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: How to read and write Code? </p><p>OBJECT: Open Source</p><hr><p>Fine</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: How to read and write Code? &lt;/p&gt;
+&lt;p&gt;OBJECT: Open Source&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Fine&lt;/p&gt;
+&lt;p&gt;Tomorrow is fine.&lt;/p&gt;
+&lt;pre&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TodayNews (1)</title>
+    <link href="https://juengs.github.io/2018/08/04/08042018/"/>
+    <id>https://juengs.github.io/2018/08/04/08042018/</id>
+    <published>2018-08-04T15:46:21.000Z</published>
+    <updated>2018-08-07T06:35:33.154Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: How to read and write Code? </p><p>OBJECT: Open Source</p><hr><p>Rain  .</p><p>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: How to read and write Code? &lt;/p&gt;
+&lt;p&gt;OBJECT: Open Source&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Rain  .&lt;/p&gt;
+&lt;p&gt;   Give up Jekyll with r
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Learn ruby NodeJS H5 Css.</title>
+    <link href="https://juengs.github.io/2018/08/03/20080803Template/"/>
+    <id>https://juengs.github.io/2018/08/03/20080803Template/</id>
+    <published>2018-08-03T15:46:21.000Z</published>
+    <updated>2018-08-03T16:00:11.428Z</updated>
+    
+    <content type="html"><![CDATA[<p>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>- BECOME a  enginner.- Do network related work, but do not write code</code></pre><ul><li>LOCAL: SHANGHAI</li><li>TITLE: Hexo+Jekyll </li><li>OBJECT: The blog.</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， because the themes have a lot of bugs.&lt;/p&gt;
+&lt;p&gt;//TODO:  find a job. Develop a iOS App for ex
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>TIME is everything, so record it with blogs everyday.</title>
@@ -189,6 +440,56 @@
       
     
     </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Basic of</title>
+    <link href="https://juengs.github.io/2011/08/03/basic/"/>
+    <id>https://juengs.github.io/2011/08/03/basic/</id>
+    <published>2011-08-03T15:46:21.000Z</published>
+    <updated>2018-08-05T01:44:03.461Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="#">ThexHexo+GitHubBlog.txt</a></p><h1 id="How-to-become-a-iOS-Develper"><a href="#How-to-become-a-iOS-Develper" class="headerlink" title="How to become a iOS Develper"></a>How to become a iOS Develper</h1><h2 id="Document"><a href="#Document" class="headerlink" title="Document"></a>Document</h2><blockquote><p>blog<br>api<br>Framework</p></blockquote><h2 id="principle"><a href="#principle" class="headerlink" title="principle"></a>principle</h2><h4 id="Model"><a href="#Model" class="headerlink" title="Model"></a>Model</h4><ul><li>data</li></ul><h4 id="View"><a href="#View" class="headerlink" title="View"></a>View</h4><ul><li>Layout</li></ul><h4 id="Controller"><a href="#Controller" class="headerlink" title="Controller"></a>Controller</h4><ul><li>Router</li></ul><hr><ul><li>解析数据</li><li>绑定数据</li><li>数据持久化</li><li>数据传输</li><li>数据格式化</li><li>数据展现</li><li>回话通信 表单提交相应 </li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;#&quot;&gt;ThexHexo+GitHubBlog.txt&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;How-to-become-a-iOS-Develper&quot;&gt;&lt;a href=&quot;#How-to-become-a-iOS-Develper&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+      <category term="Swift" scheme="https://juengs.github.io/categories/Swift/"/>
+    
+    
+      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TEMPLATE</title>
+    <link href="https://juengs.github.io/2011/08/03/Template/"/>
+    <id>https://juengs.github.io/2011/08/03/Template/</id>
+    <published>2011-08-03T15:46:21.000Z</published>
+    <updated>2018-08-07T06:42:17.277Z</updated>
+    
+    <content type="html"><![CDATA[<p>Everything is ok.<br>I hear the rain falling outside the window.<br>”Start work“, said the colleague.</p><p>Hi, world!<br>   This is a template of Markdown file with title, date, category, and tags.<br>   we can search, find articles with category and tags too.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- BECOME a  enginner.</span><br><span class="line">- Do network related work, but do not write code</span><br></pre></td></tr></table></figure><ul><li>LOCAL: SHANGHAI</li><li>TITLE: There is a typhoon today. It was so windy.</li><li>OBJECT: The blog.</li><li>Tomorrow is fine.</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Everything is ok.&lt;br&gt;I hear the rain falling outside the window.&lt;br&gt;”Start work“, said the colleague.&lt;/p&gt;
+&lt;p&gt;Hi, world!&lt;br&gt;   This is a t
+      
+    
+    </summary>
+    
+      <category term="Swift" scheme="https://juengs.github.io/categories/Swift/"/>
     
     
   </entry>
