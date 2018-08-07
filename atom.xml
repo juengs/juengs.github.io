@@ -41,6 +41,33 @@
   </entry>
   
   <entry>
+    <title>Moya</title>
+    <link href="https://juengs.github.io/2018/08/05/08052018Moya/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018Moya/</id>
+    <published>2018-08-05T15:46:21.000Z</published>
+    <updated>2018-08-05T01:23:49.229Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="网络抽象层库Moya的使用详解1"><a href="#网络抽象层库Moya的使用详解1" class="headerlink" title="网络抽象层库Moya的使用详解1"></a>网络抽象层库Moya的使用详解1</h1><h2 id="一、基本介绍"><a href="#一、基本介绍" class="headerlink" title="一、基本介绍"></a>一、基本介绍</h2><h4 id="1，什么是-Moya"><a href="#1，什么是-Moya" class="headerlink" title="1，什么是 Moya"></a>1，什么是 Moya</h4><p>（1）我们知道在 iOS 开发中，可以使用 URLSession 进行网络请求。但为了方便起见，我通常会选择使用 Alamofire 这样的第三方库。这些库本质上也是基于 URLSession 的，但其封装了许多细节，可以让我们网络请求相关代码（如获取数据，提交数据，上传文件，下载文件等）更加简洁易用。<br>（2）而 Moya 又是一个基于 Alamofire 的更高层网络请求封装抽象层。Moya 也就可以看做我们的网络管理层，用来封装 URL、参数等请求所需要的一些基本信息。使用后我们的客户端代码会直接操作 Moya，然后 Moya 去管理请求，而不用跟 Alamofire 进行直接接触。<br>GitHub 主页地址：<a href="https://github.com/Moya/Moya" target="_blank" rel="noopener">https://github.com/Moya/Moya</a></p><h4 id="2，使用-Moya-的优点"><a href="#2，使用-Moya-的优点" class="headerlink" title="2，使用 Moya 的优点"></a>2，使用 Moya 的优点</h4><h2 id="二、安装配置"><a href="#二、安装配置" class="headerlink" title="二、安装配置"></a>二、安装配置</h2><h2 id="三、使用样例"><a href="#三、使用样例" class="headerlink" title="三、使用样例"></a>三、使用样例</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;a href=&quot;#网络抽象层库Moya的使用详解1&quot; class=&quot;headerlink&quot; title=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;/a&gt;网络抽象层库Moya的使用详解1&lt;/h1&gt;&lt;h2 id=&quot;一、基本介绍&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="QQ" scheme="https://juengs.github.io/tags/QQ/"/>
+    
+      <category term="Login" scheme="https://juengs.github.io/tags/Login/"/>
+    
+      <category term="URLSession" scheme="https://juengs.github.io/tags/URLSession/"/>
+    
+  </entry>
+  
+  <entry>
     <title>ObjectMapper</title>
     <link href="https://juengs.github.io/2018/08/05/08052018ObjectMapper/"/>
     <id>https://juengs.github.io/2018/08/05/08052018ObjectMapper/</id>
@@ -69,61 +96,6 @@
   </entry>
   
   <entry>
-    <title>HandyJSON</title>
-    <link href="https://juengs.github.io/2018/08/05/08052018HandyJSON/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018HandyJSON/</id>
-    <published>2018-08-05T15:46:21.000Z</published>
-    <updated>2018-08-05T01:08:50.471Z</updated>
-    
-    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
-      
-    
-    </summary>
-    
-    
-      <category term="第三方框架" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/"/>
-    
-      <category term="iOS" scheme="https://juengs.github.io/tags/iOS/"/>
-    
-      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Moya</title>
-    <link href="https://juengs.github.io/2018/08/05/08052018Moya/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018Moya/</id>
-    <published>2018-08-05T15:46:21.000Z</published>
-    <updated>2018-08-05T01:23:49.229Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="网络抽象层库Moya的使用详解1"><a href="#网络抽象层库Moya的使用详解1" class="headerlink" title="网络抽象层库Moya的使用详解1"></a>网络抽象层库Moya的使用详解1</h1><h2 id="一、基本介绍"><a href="#一、基本介绍" class="headerlink" title="一、基本介绍"></a>一、基本介绍</h2><h4 id="1，什么是-Moya"><a href="#1，什么是-Moya" class="headerlink" title="1，什么是 Moya"></a>1，什么是 Moya</h4><p>（1）我们知道在 iOS 开发中，可以使用 URLSession 进行网络请求。但为了方便起见，我通常会选择使用 Alamofire 这样的第三方库。这些库本质上也是基于 URLSession 的，但其封装了许多细节，可以让我们网络请求相关代码（如获取数据，提交数据，上传文件，下载文件等）更加简洁易用。<br>（2）而 Moya 又是一个基于 Alamofire 的更高层网络请求封装抽象层。Moya 也就可以看做我们的网络管理层，用来封装 URL、参数等请求所需要的一些基本信息。使用后我们的客户端代码会直接操作 Moya，然后 Moya 去管理请求，而不用跟 Alamofire 进行直接接触。<br>GitHub 主页地址：<a href="https://github.com/Moya/Moya" target="_blank" rel="noopener">https://github.com/Moya/Moya</a></p><h4 id="2，使用-Moya-的优点"><a href="#2，使用-Moya-的优点" class="headerlink" title="2，使用 Moya 的优点"></a>2，使用 Moya 的优点</h4><h2 id="二、安装配置"><a href="#二、安装配置" class="headerlink" title="二、安装配置"></a>二、安装配置</h2><h2 id="三、使用样例"><a href="#三、使用样例" class="headerlink" title="三、使用样例"></a>三、使用样例</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;a href=&quot;#网络抽象层库Moya的使用详解1&quot; class=&quot;headerlink&quot; title=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;/a&gt;网络抽象层库Moya的使用详解1&lt;/h1&gt;&lt;h2 id=&quot;一、基本介绍&quot;&gt;&lt;
-      
-    
-    </summary>
-    
-    
-      <category term="QQ" scheme="https://juengs.github.io/tags/QQ/"/>
-    
-      <category term="Login" scheme="https://juengs.github.io/tags/Login/"/>
-    
-      <category term="URLSession" scheme="https://juengs.github.io/tags/URLSession/"/>
-    
-  </entry>
-  
-  <entry>
     <title>QQ第三方登陆</title>
     <link href="https://juengs.github.io/2018/08/05/08052018QQLogin/"/>
     <id>https://juengs.github.io/2018/08/05/08052018QQLogin/</id>
@@ -148,6 +120,34 @@
       <category term="Login" scheme="https://juengs.github.io/tags/Login/"/>
     
       <category term="第三方登陆" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E9%99%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HandyJSON</title>
+    <link href="https://juengs.github.io/2018/08/05/08052018HandyJSON/"/>
+    <id>https://juengs.github.io/2018/08/05/08052018HandyJSON/</id>
+    <published>2018-08-05T15:46:21.000Z</published>
+    <updated>2018-08-05T01:08:50.471Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
+      
+    
+    </summary>
+    
+    
+      <category term="第三方框架" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/"/>
+    
+      <category term="iOS" scheme="https://juengs.github.io/tags/iOS/"/>
+    
+      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
     
   </entry>
   
