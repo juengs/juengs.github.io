@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://juengs.github.io/"/>
-  <updated>2018-08-07T06:32:24.267Z</updated>
+  <updated>2018-08-30T03:02:21.106Z</updated>
   <id>https://juengs.github.io/</id>
   
   <author>
@@ -17,148 +17,74 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Start a business</title>
-    <link href="https://juengs.github.io/2018/08/06/08062018StartBusiness/"/>
-    <id>https://juengs.github.io/2018/08/06/08062018StartBusiness/</id>
-    <published>2018-08-06T05:46:21.000Z</published>
-    <updated>2018-08-07T06:32:24.267Z</updated>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09052018/"/>
+    <id>https://juengs.github.io/2018/08/30/09052018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
     
-    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: It’s easy to open a shop but hard to keep it open.<br>Object:<br>——————————————————-</p><p>Fine.</p><p>It’s easy to open a shop but hard to keep it open.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: It’s easy to open a shop but hard to keep it open.&lt;br&gt;Object:&lt;br&gt;——————————————————-&lt;/p&gt;
-&lt;p&gt;Fine.&lt;/p&gt;
-&lt;p&gt;It
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Moya</title>
-    <link href="https://juengs.github.io/2018/08/05/08052018Moya/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018Moya/</id>
-    <published>2018-08-05T15:46:21.000Z</published>
-    <updated>2018-08-05T01:23:49.229Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="网络抽象层库Moya的使用详解1"><a href="#网络抽象层库Moya的使用详解1" class="headerlink" title="网络抽象层库Moya的使用详解1"></a>网络抽象层库Moya的使用详解1</h1><h2 id="一、基本介绍"><a href="#一、基本介绍" class="headerlink" title="一、基本介绍"></a>一、基本介绍</h2><h4 id="1，什么是-Moya"><a href="#1，什么是-Moya" class="headerlink" title="1，什么是 Moya"></a>1，什么是 Moya</h4><p>（1）我们知道在 iOS 开发中，可以使用 URLSession 进行网络请求。但为了方便起见，我通常会选择使用 Alamofire 这样的第三方库。这些库本质上也是基于 URLSession 的，但其封装了许多细节，可以让我们网络请求相关代码（如获取数据，提交数据，上传文件，下载文件等）更加简洁易用。<br>（2）而 Moya 又是一个基于 Alamofire 的更高层网络请求封装抽象层。Moya 也就可以看做我们的网络管理层，用来封装 URL、参数等请求所需要的一些基本信息。使用后我们的客户端代码会直接操作 Moya，然后 Moya 去管理请求，而不用跟 Alamofire 进行直接接触。<br>GitHub 主页地址：<a href="https://github.com/Moya/Moya" target="_blank" rel="noopener">https://github.com/Moya/Moya</a></p><h4 id="2，使用-Moya-的优点"><a href="#2，使用-Moya-的优点" class="headerlink" title="2，使用 Moya 的优点"></a>2，使用 Moya 的优点</h4><h2 id="二、安装配置"><a href="#二、安装配置" class="headerlink" title="二、安装配置"></a>二、安装配置</h2><h2 id="三、使用样例"><a href="#三、使用样例" class="headerlink" title="三、使用样例"></a>三、使用样例</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;a href=&quot;#网络抽象层库Moya的使用详解1&quot; class=&quot;headerlink&quot; title=&quot;网络抽象层库Moya的使用详解1&quot;&gt;&lt;/a&gt;网络抽象层库Moya的使用详解1&lt;/h1&gt;&lt;h2 id=&quot;一、基本介绍&quot;&gt;&lt;
-      
-    
-    </summary>
-    
-    
-      <category term="QQ" scheme="https://juengs.github.io/tags/QQ/"/>
-    
-      <category term="Login" scheme="https://juengs.github.io/tags/Login/"/>
-    
-      <category term="URLSession" scheme="https://juengs.github.io/tags/URLSession/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ObjectMapper</title>
-    <link href="https://juengs.github.io/2018/08/05/08052018ObjectMapper/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018ObjectMapper/</id>
-    <published>2018-08-05T15:46:21.000Z</published>
-    <updated>2018-08-05T01:09:32.322Z</updated>
-    
-    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
       
     
     </summary>
     
     
-      <category term="Network" scheme="https://juengs.github.io/tags/Network/"/>
-    
-      <category term="Data" scheme="https://juengs.github.io/tags/Data/"/>
-    
-      <category term="Model" scheme="https://juengs.github.io/tags/Model/"/>
-    
   </entry>
   
   <entry>
-    <title>QQ第三方登陆</title>
-    <link href="https://juengs.github.io/2018/08/05/08052018QQLogin/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018QQLogin/</id>
-    <published>2018-08-05T15:46:21.000Z</published>
-    <updated>2018-08-05T01:09:53.492Z</updated>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/08302018/"/>
+    <id>https://juengs.github.io/2018/08/30/08302018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
     
-    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
       
     
     </summary>
     
     
-      <category term="QQ" scheme="https://juengs.github.io/tags/QQ/"/>
-    
-      <category term="Login" scheme="https://juengs.github.io/tags/Login/"/>
-    
-      <category term="第三方登陆" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E9%99%86/"/>
-    
   </entry>
   
   <entry>
-    <title>HandyJSON</title>
-    <link href="https://juengs.github.io/2018/08/05/08052018HandyJSON/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018HandyJSON/</id>
-    <published>2018-08-05T15:46:21.000Z</published>
-    <updated>2018-08-05T01:08:50.471Z</updated>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/08312018/"/>
+    <id>https://juengs.github.io/2018/08/30/08312018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
     
-    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Hexo+Jekyll<br>——————————————————-<br>OBJECT: The blog.<br>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: Hexo+Jekyll&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The blog.&lt;br&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， be
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
       
-    
-    </summary>
-    
-    
-      <category term="第三方框架" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/"/>
-    
-      <category term="iOS" scheme="https://juengs.github.io/tags/iOS/"/>
-    
-      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://juengs.github.io/2018/08/05/08052018TodayNews3/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018TodayNews3/</id>
-    <published>2018-08-05T01:48:49.107Z</published>
-    <updated>2018-08-05T01:48:49.107Z</updated>
-    
-    <summary type="html">
     
     </summary>
     
@@ -166,52 +92,322 @@
   </entry>
   
   <entry>
-    <title>使用友盟实现应用的统计分析</title>
-    <link href="https://juengs.github.io/2018/08/05/08052018umeng/"/>
-    <id>https://juengs.github.io/2018/08/05/08052018umeng/</id>
-    <published>2018-08-05T01:11:21.000Z</published>
-    <updated>2018-08-05T01:19:12.711Z</updated>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09012018/"/>
+    <id>https://juengs.github.io/2018/08/30/09012018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="1，什么是友盟（umeng-com）"><a href="#1，什么是友盟（umeng-com）" class="headerlink" title="1，什么是友盟（umeng.com）"></a>1，什么是友盟（umeng.com）</h4><p>（1）友盟致力于为移动开发者提供专业的数据统计分析、开发和运营组件及推广服务。服务包含移动应用统计分析以及细分行业的移动游戏统计分析、社会化分享组件、消息推送、自动更新、用户反馈、错误分析等产品。<br>（2）友盟提供iOS、Android和Windows Phone等多平台服务。</p><h4 id="2，友盟的应用统计分析"><a href="#2，友盟的应用统计分析" class="headerlink" title="2，友盟的应用统计分析"></a>2，友盟的应用统计分析</h4><p>友盟统计分析平台是国内最大的移动应用统计分析平台。用于帮助移动应用开发商统计和分析流量来源、内容使用、用户属性和行为数据，以便开发商利用数据进行产品、运营、推广策略的决策。 </p><h4 id="3，使用样例"><a href="#3，使用样例" class="headerlink" title="3，使用样例"></a>3，使用样例</h4><p>由于官网提供的代码样例是Objective-C的，下面我将演示如何使用Swift来调用友盟的SDK。</p><ul><li>umeng ID</li><li>Import in App delegate</li><li>single files load umeng</li><li>父类(基类) 添加umeng统计，</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h4 id=&quot;1，什么是友盟（umeng-com）&quot;&gt;&lt;a href=&quot;#1，什么是友盟（umeng-com）&quot; class=&quot;headerlink&quot; title=&quot;1，什么是友盟（umeng.com）&quot;&gt;&lt;/a&gt;1，什么是友盟（umeng.com）&lt;/h4&gt;&lt;p&gt;（1）友盟致
-      
-    
-    </summary>
-    
-    
-      <category term="第三方框架" scheme="https://juengs.github.io/tags/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/"/>
-    
-      <category term="iOS" scheme="https://juengs.github.io/tags/iOS/"/>
-    
-      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>How to read and write Code?</title>
-    <link href="https://juengs.github.io/2018/08/04/08072018ReadCode/"/>
-    <id>https://juengs.github.io/2018/08/04/08072018ReadCode/</id>
-    <published>2018-08-04T15:46:21.000Z</published>
-    <updated>2018-08-07T06:34:44.854Z</updated>
-    
-    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: How to read and write Code? </p><p>OBJECT: Open Source</p><hr><p>Fine</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: How to read and write Code? &lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09032018/"/>
+    <id>https://juengs.github.io/2018/08/30/09032018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09022018/"/>
+    <id>https://juengs.github.io/2018/08/30/09022018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09042018/"/>
+    <id>https://juengs.github.io/2018/08/30/09042018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09062018/"/>
+    <id>https://juengs.github.io/2018/08/30/09062018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09082018/"/>
+    <id>https://juengs.github.io/2018/08/30/09082018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09072018/"/>
+    <id>https://juengs.github.io/2018/08/30/09072018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09102018/"/>
+    <id>https://juengs.github.io/2018/08/30/09102018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>novel</title>
+    <link href="https://juengs.github.io/2018/08/30/09092018/"/>
+    <id>https://juengs.github.io/2018/08/30/09092018/</id>
+    <published>2018-08-30T02:46:21.000Z</published>
+    <updated>2018-08-30T03:02:21.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The fish of the space. They can flying in sky, and eat others because the can’t make iron. So the eat others and combine themself with other plant. Just keep the gene and have childrens. Only the strongest can live. (A leaves, a fruit, a trunk, a root.)<br>  we are family, we are a country . We just like a tree , we war and build a country, so we just need find our position. The goverment, businnes, teacher, star, worker, boss, employee, and so on. </p><ul><li>We are piece of our country. So orgnize citizens.</li><li>We just were the fishes of the time space.</li><li>We travel by the stars, and the earth is the base</li></ul><p>//TODO:  list: TodayNews, JadeIsland, XiJinFa<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Times flow far away!</title>
+    <link href="https://juengs.github.io/2018/08/26/08262018todolist/"/>
+    <id>https://juengs.github.io/2018/08/26/08262018todolist/</id>
+    <published>2018-08-26T04:36:21.000Z</published>
+    <updated>2018-08-26T04:36:25.625Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Soon, i have to write four diarys for the lazy!</p><p>OBJECT: lazy or no organize of times. Time is </p><h2 id="like-water-in-a-sponge-spvn-d-ʒ-so-long-as-it-is-crowed"><a href="#like-water-in-a-sponge-spvn-d-ʒ-so-long-as-it-is-crowed" class="headerlink" title="like water in a sponge [spʌn(d)ʒ], so long as it is crowed. "></a>like water in a sponge [spʌn(d)ʒ], so long as it is crowed. </h2><p>Today is purple rain. </p><p>   Experience of apps, look for the apis to make app.<br>   Training yourself:<br>   First have todolist,<br>   Second coding you project,<br>   End debug your codes, and run it in you iPhone device.</p><p>//TODO:  The last thing your must do which you think.</p><p>Tomorrow is fine.</p><pre><code>⁃ It&apos;s term? Time out? - expire the time for learning ? </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: Soon, i have to write four diarys for the lazy!&lt;/p&gt;
+&lt;p&gt;OBJECT: lazy or no organize of times. Time is &lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>practise versus exercise and experience</title>
+    <link href="https://juengs.github.io/2018/08/25/08292018/"/>
+    <id>https://juengs.github.io/2018/08/25/08292018/</id>
+    <published>2018-08-25T15:46:21.000Z</published>
+    <updated>2018-08-28T04:07:04.847Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The base knowledge and exercise is very important.<br>  system virtual machine and basic dataType, collection Type, Framework, database, .  </p><ul><li>model and function, operator, index, cursor, </li><li>four level lock, transcation, ant log, and UI, spring + bounds framework, </li><li></li></ul><p>//TODO:  list<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>practise versus exercise and experience</title>
+    <link href="https://juengs.github.io/2018/08/25/08282018/"/>
+    <id>https://juengs.github.io/2018/08/25/08282018/</id>
+    <published>2018-08-25T15:46:21.000Z</published>
+    <updated>2018-08-28T04:07:04.847Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: practise versus exercise and experience !</p><p>OBJECT: noun versus adjective, bound and rebound</p><hr><p>Today is sunny.<br>  The base knowledge and exercise is very important.<br>  system virtual machine and basic dataType, collection Type, Framework, database, .  </p><ul><li>model and function, operator, index, cursor, </li><li>four level lock, transcation, ant log, and UI, spring + bounds framework, </li><li></li></ul><p>//TODO:  list<br>Tomorrow will be fine.</p><pre><code>⁃ BECOME a enginner.- Project Manager. </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: practise versus exercise and experience !&lt;/p&gt;
+&lt;p&gt;OBJECT: noun versus adjective, bound and rebound&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Learn the swift language</title>
+    <link href="https://juengs.github.io/2018/08/25/08272018/"/>
+    <id>https://juengs.github.io/2018/08/25/08272018/</id>
+    <published>2018-08-25T15:46:21.000Z</published>
+    <updated>2018-08-26T04:47:27.883Z</updated>
+    
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: How to use the document to write the codes! </p><p>OBJECT: Open Source</p><hr><p>Today is cloud. And will have a rain.<br>  It’s rainning afternoon at 6:30 P.M.<br>  So i must read the code and wirte your code of the apps.  </p><ul><li>adhere to sth. unremittingly</li><li></li></ul><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: How to use the document to write the codes! &lt;/p&gt;
 &lt;p&gt;OBJECT: Open Source&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Fine&lt;/p&gt;
-&lt;p&gt;Tomorrow is fine.&lt;/p&gt;
-&lt;pre&gt;
+&lt;p&gt;Today is cloud. And wil
       
     
     </summary>
@@ -220,24 +416,23 @@
   </entry>
   
   <entry>
-    <title>TodayNews (1)</title>
-    <link href="https://juengs.github.io/2018/08/04/08042018/"/>
-    <id>https://juengs.github.io/2018/08/04/08042018/</id>
-    <published>2018-08-04T15:46:21.000Z</published>
-    <updated>2018-08-07T06:35:33.154Z</updated>
+    <title>Learn the swift language</title>
+    <link href="https://juengs.github.io/2018/08/25/08252018/"/>
+    <id>https://juengs.github.io/2018/08/25/08252018/</id>
+    <published>2018-08-25T15:46:21.000Z</published>
+    <updated>2018-08-26T04:47:27.883Z</updated>
     
-    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: How to read and write Code? </p><p>OBJECT: Open Source</p><hr><p>Rain  .</p><p>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: How to use the document to write the codes! </p><p>OBJECT: Open Source</p><hr><p>Today is cloud. And will have a rain.<br>  It’s rainning afternoon at 6:30 P.M.<br>  So i must read the code and wirte your code of the apps.  </p><ul><li>adhere to sth. unremittingly</li><li></li></ul><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: How to read and write Code? &lt;/p&gt;
+&lt;p&gt;TITLE: How to use the document to write the codes! &lt;/p&gt;
 &lt;p&gt;OBJECT: Open Source&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Rain  .&lt;/p&gt;
-&lt;p&gt;   Give up Jekyll with r
+&lt;p&gt;Today is cloud. And wil
       
     
     </summary>
@@ -246,109 +441,24 @@
   </entry>
   
   <entry>
-    <title>Learn ruby NodeJS H5 Css.</title>
-    <link href="https://juengs.github.io/2018/08/03/20080803Template/"/>
-    <id>https://juengs.github.io/2018/08/03/20080803Template/</id>
-    <published>2018-08-03T15:46:21.000Z</published>
-    <updated>2018-08-03T16:00:11.428Z</updated>
+    <title>Time and Thing&#39;s node!</title>
+    <link href="https://juengs.github.io/2018/08/24/08242018/"/>
+    <id>https://juengs.github.io/2018/08/24/08242018/</id>
+    <published>2018-08-24T15:46:21.000Z</published>
+    <updated>2018-08-26T04:57:27.937Z</updated>
     
-    <content type="html"><![CDATA[<p>Today learn .<br>   Give up Jekyll with ruby， because the themes have a lot of bugs.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>- BECOME a  enginner.- Do network related work, but do not write code</code></pre><ul><li>LOCAL: SHANGHAI</li><li>TITLE: Hexo+Jekyll </li><li>OBJECT: The blog.</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Today learn .&lt;br&gt;   Give up Jekyll with ruby， because the themes have a lot of bugs.&lt;/p&gt;
-&lt;p&gt;//TODO:  find a job. Develop a iOS App for ex
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>TIME is everything, so record it with blogs everyday.</title>
-    <link href="https://juengs.github.io/2018/08/02/Today/"/>
-    <id>https://juengs.github.io/2018/08/02/Today/</id>
-    <published>2018-08-02T14:12:21.000Z</published>
-    <updated>2018-08-02T14:32:05.177Z</updated>
-    
-    <content type="html"><![CDATA[<p>TIME: 08/02 2013, Thursday. 15:12:10<br>LOCAL: SHANGHAI</p><p>TITLE: nothing<br>——————————————————-<br>OBJECT: The one Who can use fire.<br>Today with nothing.<br>   I think to become a iOS engineer must learn english and computer language.   Such as Object-c and swift. And the computer principle is very important all so.<br>It’s the base of computer technology.<br>  Computer technology and scientist. I can use grammar . Sugar.<br>//TODO:  find a job. Pefect person and thing.<br>Tomorrow is fine.<br>     ⁃    每天24小时，至少一篇文章. 时间/地点人物/目的/精气神emotion Spring spirit<br>     ⁃    BECOME</p>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Do something and the node isn’t by day!</p><p>OBJECT: keyword, </p><hr><p>Today is sunny.</p><p> To do something just by the current time that no by day or morning a.m, p.m, or just if you have lunch.</p><p> and we must organize our infomation, neither we can known what they meant.</p><p>//TODO:  learning english to coding, for the brain to remeber something and read write documents.</p><p>weekly dayly paper raise, compete with everybody.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;TIME: 08/02 2013, Thursday. 15:12:10&lt;br&gt;LOCAL: SHANGHAI&lt;/p&gt;
-&lt;p&gt;TITLE: nothing&lt;br&gt;——————————————————-&lt;br&gt;OBJECT: The one Who can use fire.
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Lazy and bottom alipay image</title>
-    <link href="https://juengs.github.io/2018/08/02/lazy/"/>
-    <id>https://juengs.github.io/2018/08/02/lazy/</id>
-    <published>2018-08-02T14:12:21.000Z</published>
-    <updated>2018-08-02T14:20:46.500Z</updated>
-    
-    <content type="html"><![CDATA[<p>在做OC项目中经常使用的就是懒加载,重写getter方法, 什么时候用到getter方法什么时候去加载, 并且就加载一次,保证项目的效率</p><p>那么何为惰性初始化呢？<br>从OC的代码中不难看出，惰性初始化，就是在变量第一次使用的时候才进行初始化。<br>那么Swift也有懒加载这么一说,而且Apple 很推荐我们使用懒加载, 并且还有一个关键字lazy</p><p>懒加载定义: var 变量名: 类型 = 闭包()<br>看一下下面的实例<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">private lazy var backBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var likeBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var sharedBtn: UIButton        = UIButton()</span><br><span class="line">private lazy var submitTitle: UILabel       = UILabel()</span><br><span class="line">private lazy var line:UIView                = UIView()</span><br><span class="line">private lazy var isLoadFinsih               = false</span><br><span class="line">private lazy var isAddBottomView            = false</span><br><span class="line">private lazy var showBlackImage             = false</span><br><span class="line">private lazy var detailVebView: UIWebView   = UIWebView(frame: CGRectMake(0,0,AppWidth,AppHeight))</span><br><span class="line">private lazy var tableFooterView            = UIView()</span><br><span class="line">private lazy var loadFinishScrollHeihgt: CGFloat = 0</span><br><span class="line">private lazy var customNav: UIView = &#123;</span><br><span class="line">let customNav = UIView(frame: CGRectMake(0, 0, AppWidth, NavigationH))</span><br><span class="line">customNav.backgroundColor = UIColor.whiteColor()</span><br><span class="line">customNav.alpha = 0.0</span><br><span class="line">return customNav</span><br><span class="line">&#125;()</span><br></pre></td></tr></table></figure></p><p>Swift中的惰性初始化</p><p>Swift中，有两种方式来惰性初始化。<br>第一种，简单表达式<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var first = NSArray(objects: &quot;1&quot;,&quot;2&quot;)</span><br></pre></td></tr></table></figure></p><p>第二种，闭包<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var second:String = &#123; return &quot;second&quot; &#125;()</span><br></pre></td></tr></table></figure></p><p>注意:不要忘记最后的小括号，只有加了小括号，必包才会在掉用的时候立刻执行。</p><p>惰性初始化的使用场景</p><p>属性本身依赖于外部因素才能初始化<br>属性需要复杂计算，消耗大量CPU<br>属性不确定是否会使用到<br>定制化的初始化<br>有些初始化只需要初始化一次，在变量定义的地方初始化，有助于代码维护</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;在做OC项目中经常使用的就是懒加载,重写getter方法, 什么时候用到getter方法什么时候去加载, 并且就加载一次,保证项目的效率&lt;/p&gt;
-&lt;p&gt;那么何为惰性初始化呢？&lt;br&gt;从OC的代码中不难看出，惰性初始化，就是在变量第一次使用的时候才进行初始化。&lt;br&gt;那么Sw
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>initial with Pay image at bottom</title>
-    <link href="https://juengs.github.io/2018/08/02/init/"/>
-    <id>https://juengs.github.io/2018/08/02/init/</id>
-    <published>2018-08-02T14:12:21.000Z</published>
-    <updated>2018-08-02T14:21:45.342Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>How to make iOS Apps with Swift.</title>
-    <link href="https://juengs.github.io/2018/06/30/Apps/"/>
-    <id>https://juengs.github.io/2018/06/30/Apps/</id>
-    <published>2018-06-29T16:37:30.000Z</published>
-    <updated>2018-08-02T14:29:36.499Z</updated>
-    
-    <content type="html"><![CDATA[<p>先构架框架</p><ol><li>主页面，跳转。</li><li>模块划分，加载。</li></ol><hr><p>TableController 问题。</p><ol><li>View需要构造器吗？ Syswift</li></ol><p>在做OC项目中经常使用的就是懒加载,重写getter方法, 什么时候用到getter方法什么时候去加载, 并且就加载一次,保证项目的效率</p><p>那么何为惰性初始化呢？<br>从OC的代码中不难看出，惰性初始化，就是在变量第一次使用的时候才进行初始化。<br>那么Swift也有懒加载这么一说,而且Apple 很推荐我们使用懒加载, 并且还有一个关键字lazy</p><p>懒加载定义: var 变量名: 类型 = 闭包()<br>看一下下面的实例<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">private lazy var backBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var likeBtn: UIButton          = UIButton()</span><br><span class="line">private lazy var sharedBtn: UIButton        = UIButton()</span><br><span class="line">private lazy var submitTitle: UILabel       = UILabel()</span><br><span class="line">private lazy var line:UIView                = UIView()</span><br><span class="line">private lazy var isLoadFinsih               = false</span><br><span class="line">private lazy var isAddBottomView            = false</span><br><span class="line">private lazy var showBlackImage             = false</span><br><span class="line">private lazy var detailVebView: UIWebView   = UIWebView(frame: CGRectMake(0,0,AppWidth,AppHeight))</span><br><span class="line">private lazy var tableFooterView            = UIView()</span><br><span class="line">private lazy var loadFinishScrollHeihgt: CGFloat = 0</span><br><span class="line">private lazy var customNav: UIView = &#123;</span><br><span class="line">let customNav = UIView(frame: CGRectMake(0, 0, AppWidth, NavigationH))</span><br><span class="line">customNav.backgroundColor = UIColor.whiteColor()</span><br><span class="line">customNav.alpha = 0.0</span><br><span class="line">return customNav</span><br><span class="line">&#125;()</span><br></pre></td></tr></table></figure></p><p>Swift中的惰性初始化</p><p>Swift中，有两种方式来惰性初始化。<br>第一种，简单表达式<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var first = NSArray(objects: &quot;1&quot;,&quot;2&quot;)</span><br></pre></td></tr></table></figure></p><p>第二种，闭包<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lazy var second:String = &#123; return &quot;second&quot; &#125;()</span><br></pre></td></tr></table></figure></p><p>注意:不要忘记最后的小括号，只有加了小括号，必包才会在掉用的时候立刻执行。</p><p>惰性初始化的使用场景</p><p>属性本身依赖于外部因素才能初始化<br>属性需要复杂计算，消耗大量CPU<br>属性不确定是否会使用到<br>定制化的初始化<br>有些初始化只需要初始化一次，在变量定义的地方初始化，有助于代码维护</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;先构架框架&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;主页面，跳转。&lt;/li&gt;
-&lt;li&gt;模块划分，加载。&lt;/li&gt;
-&lt;/ol&gt;
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: Do something and the node isn’t by day!&lt;/p&gt;
+&lt;p&gt;OBJECT: keyword, &lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;TableController 问题。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;View需要构造器吗？ Syswift&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;在做OC项目
+&lt;p&gt;Today is sunny.&lt;/p&gt;
+&lt;p&gt; To do 
       
     
     </summary>
@@ -357,65 +467,21 @@
   </entry>
   
   <entry>
-    <title>The objects what haved done.</title>
-    <link href="https://juengs.github.io/2018/06/26/object/"/>
-    <id>https://juengs.github.io/2018/06/26/object/</id>
-    <published>2018-06-26T08:59:41.000Z</published>
-    <updated>2018-08-02T14:28:49.398Z</updated>
+    <title>Seven eleven</title>
+    <link href="https://juengs.github.io/2018/08/22/08222018%20seven%20eleven/"/>
+    <id>https://juengs.github.io/2018/08/22/08222018 seven eleven/</id>
+    <published>2018-08-22T15:46:21.000Z</published>
+    <updated>2018-08-22T16:18:49.847Z</updated>
     
-    <content type="html"><![CDATA[<p><br><a href="https://juengs.github.io">Mine GITHUB</a>             <br><br><img src="http://forsigner.com/images/avatar.jpg" alt="FLOWER"><br></p><hr><p><pre><br>     <strong>do ri mi fa so la si<br></strong></pre><br>    <code><br>    func(){</code></p><p>///</p><p>///</p><p>}<br>    </p><hr><pre><code><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">&lt;ul&gt;</span><br><span class="line">&lt;li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt; - I need you beside me</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt; - I need you beside me</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;a href=&quot;https://github.com/juengs&quot;&gt;</span><br><span class="line">&lt;font face=&quot;黑体&quot;&gt;beside&lt;/font&gt;</span><br><span class="line"> -  字体子集化，在线提取你需要的字体</span><br><span class="line">&lt;/a&gt;</span><br><span class="line">&lt;/li&gt;</span><br><span class="line">&lt;li&gt;HEXO&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;&gt;</span><br></pre></td></tr></table></figure></code></pre><hr><ul><li><font face="黑体">前端</font></li><li><font face="黑体">后端</font> </li></ul><hr><font color="0099ff" size="1" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="00ffff" size="2" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="gray" size="3" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="red" size="4" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="cyan" size="5" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="blue" size="6" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="green" size="7" face="黑体"> <em> HEXO </em></font>  - theme for hexo<br><br><font color="yellow" size="1" face="黑体">  HEXO </font>  - theme for hexo<br><br><font color="orange" size="1" face="黑体"> * HEXO </font>  - theme for hexo<br><br>—<br><br><font face="黑体">自定义体字</font> <font face="黑体"> 敬请期待 </font> ]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;br&gt;&lt;a href=&quot;https://juengs.github.io&quot;&gt;Mine GITHUB&lt;/a&gt;             &lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://forsigner.com/images/avatar.jpg&quot; alt=&quot;FLOWER&quot;
-      
-    
-    </summary>
-    
-    
-      <category term="Jobs" scheme="https://juengs.github.io/tags/Jobs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>you can find the TEXT answer in Hexo Blog.</title>
-    <link href="https://juengs.github.io/2018/06/26/test/"/>
-    <id>https://juengs.github.io/2018/06/26/test/</id>
-    <published>2018-06-26T05:07:15.000Z</published>
-    <updated>2018-08-02T14:27:22.679Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: San francisco </p><p>TITLE: trademark that online twentyfour hours every day? </p><p>OBJECT: california Detroit Hawaiyi tahiti guam Jose<br>jos hersey cortazar </p><hr><p>Rain  .</p><p>   Expert Systems. - Joseph C<br>   Principles and Programming Fourth Edition </p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><p>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-      <category term="Hexo" scheme="https://juengs.github.io/categories/Hexo/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>my first blog This is your very first post!</title>
-    <link href="https://juengs.github.io/2018/06/26/my-first-blog/"/>
-    <id>https://juengs.github.io/2018/06/26/my-first-blog/</id>
-    <published>2018-06-26T05:07:13.000Z</published>
-    <updated>2018-08-02T14:26:04.583Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;LOCAL: San francisco &lt;/p&gt;
+&lt;p&gt;TITLE: trademark that online twentyfour hours every day? &lt;/p&gt;
+&lt;p&gt;OBJECT: california Detroit Hawaiyi tahiti g
       
     
     </summary>
@@ -424,72 +490,26 @@
   </entry>
   
   <entry>
-    <title>Hello World!!!</title>
-    <link href="https://juengs.github.io/2018/06/26/hello-world/"/>
-    <id>https://juengs.github.io/2018/06/26/hello-world/</id>
-    <published>2018-06-26T04:53:13.241Z</published>
-    <updated>2018-08-02T14:26:49.651Z</updated>
+    <title>keep a diary</title>
+    <link href="https://juengs.github.io/2018/08/14/08_142018diary/"/>
+    <id>https://juengs.github.io/2018/08/14/08_142018diary/</id>
+    <published>2018-08-14T04:08:21.000Z</published>
+    <updated>2018-08-26T04:23:58.653Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Basic of</title>
-    <link href="https://juengs.github.io/2011/08/03/basic/"/>
-    <id>https://juengs.github.io/2011/08/03/basic/</id>
-    <published>2011-08-03T15:46:21.000Z</published>
-    <updated>2018-08-05T01:44:03.461Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="#">ThexHexo+GitHubBlog.txt</a></p><h1 id="How-to-become-a-iOS-Develper"><a href="#How-to-become-a-iOS-Develper" class="headerlink" title="How to become a iOS Develper"></a>How to become a iOS Develper</h1><h2 id="Document"><a href="#Document" class="headerlink" title="Document"></a>Document</h2><blockquote><p>blog<br>api<br>Framework</p></blockquote><h2 id="principle"><a href="#principle" class="headerlink" title="principle"></a>principle</h2><h4 id="Model"><a href="#Model" class="headerlink" title="Model"></a>Model</h4><ul><li>data</li></ul><h4 id="View"><a href="#View" class="headerlink" title="View"></a>View</h4><ul><li>Layout</li></ul><h4 id="Controller"><a href="#Controller" class="headerlink" title="Controller"></a>Controller</h4><ul><li>Router</li></ul><hr><ul><li>解析数据</li><li>绑定数据</li><li>数据持久化</li><li>数据传输</li><li>数据格式化</li><li>数据展现</li><li>回话通信 表单提交相应 </li></ul>]]></content>
+    <content type="html"><![CDATA[<p>LOCAL: SHANGHAI</p><p>TITLE: Travel diary</p><p>OBJECT: Travel joney safari sufer brower tour journey, tour, trip, </p><hr><p>Todady is sunny. </p><p>   I have a joney with my girl firend, i a want to something go that i want. To make a family with her. and have a litte happy family. </p><p>  and i learning something about journey.</p><ul><li>hinking, holiday, have a honneymoon trip, </li><li><p>organize a tour.</p><p>and look for the dictionary.</p></li><li>[no object, with adverbial of direction]</li><li>有方向状语</li><li>derivative [dɪˈrɪvətɪv]源衍生 diurnal日间活动</li><li>plural adverb origin adverbian 动词状语-描述旅行方向</li><li>e.g. They journeyed sourth.   </li></ul><p>//TODO:  Todo something i want.<br>Tomorrow is fine.</p><pre><code>⁃ BECOME a  enginner.- Do network related work, but do not write code</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;a href=&quot;#&quot;&gt;ThexHexo+GitHubBlog.txt&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;How-to-become-a-iOS-Develper&quot;&gt;&lt;a href=&quot;#How-to-become-a-iOS-Develper&quot; class=&quot;headerli
+        &lt;p&gt;LOCAL: SHANGHAI&lt;/p&gt;
+&lt;p&gt;TITLE: Travel diary&lt;/p&gt;
+&lt;p&gt;OBJECT: Travel joney safari sufer brower tour journey, tour, trip, &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Todady 
       
     
     </summary>
-    
-      <category term="Swift" scheme="https://juengs.github.io/categories/Swift/"/>
-    
-    
-      <category term="Swift" scheme="https://juengs.github.io/tags/Swift/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TEMPLATE</title>
-    <link href="https://juengs.github.io/2011/08/03/Template/"/>
-    <id>https://juengs.github.io/2011/08/03/Template/</id>
-    <published>2011-08-03T15:46:21.000Z</published>
-    <updated>2018-08-07T06:42:17.277Z</updated>
-    
-    <content type="html"><![CDATA[<p>Everything is ok.<br>I hear the rain falling outside the window.<br>”Start work“, said the colleague.</p><p>Hi, world!<br>   This is a template of Markdown file with title, date, category, and tags.<br>   we can search, find articles with category and tags too.</p><p>//TODO:  find a job. Develop a iOS App for example of case, learn front-end technology.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- BECOME a  enginner.</span><br><span class="line">- Do network related work, but do not write code</span><br></pre></td></tr></table></figure><ul><li>LOCAL: SHANGHAI</li><li>TITLE: There is a typhoon today. It was so windy.</li><li>OBJECT: The blog.</li><li>Tomorrow is fine.</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Everything is ok.&lt;br&gt;I hear the rain falling outside the window.&lt;br&gt;”Start work“, said the colleague.&lt;/p&gt;
-&lt;p&gt;Hi, world!&lt;br&gt;   This is a t
-      
-    
-    </summary>
-    
-      <category term="Swift" scheme="https://juengs.github.io/categories/Swift/"/>
     
     
   </entry>
